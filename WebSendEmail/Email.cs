@@ -20,8 +20,8 @@ namespace WebSendEmail
         public static int portNumber = 587;
         public static string smtpAddress = "smtp.gmail.com";
         public static bool enableSSL = true;
-        public static string sender = "performtic@gmail.com";
-        public static string password = "perform2016@";
+        public static string sender = "<your_email>";
+        public static string password = "<your_password>";
 
     }
 
