@@ -72,7 +72,7 @@ send an Email using C#
 ```
 
 ## SendMail method with gmail smtp
-this method use gmail.smtp
+This method use gmail.smtp
 ```c#
     public static string SendMail(Email email)
         {
